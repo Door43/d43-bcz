@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcz:home|Door43 (bcz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcz|d43-bcz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcz/archive/master.zip|d43-bcz.zip]]
+
+**Recent Changes**
+{{changes>ns = bcz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcz|Ethnologue data]]
+
